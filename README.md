@@ -91,3 +91,4 @@ The frontend interacts with the following functions:
 ## License
 
 This project is released under the MIT License.  
+***HEAVILY BORROWED FROM CHATGPT/CLAUDE/GEMINI***
